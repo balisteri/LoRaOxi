@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map for GFButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GFButton			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setHoldTime			KEYWORD2
+setDebounceTime		KEYWORD2
+getPin 				KEYWORD2
+getPressCount		KEYWORD2
+getHoldTime			KEYWORD2
+getClicks			KEYWORD2
+setPressHandler		KEYWORD2
+setHoldHandler		KEYWORD2
+setReleaseHandler	KEYWORD2
+setClicksHandler	KEYWORD2
+process				KEYWORD2
+wasPressed			KEYWORD2
+wasLongPress		KEYWORD2
+wasPressed			KEYWORD2
+isFirstHold			KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BUTTON_PULLUP			LITERAL1
+BUTTON_PULLUP_INTERNAL	LITERAL1
+BUTTON_PULLDOWN			LITERAL1
